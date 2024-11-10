@@ -4,3 +4,10 @@ Apellidos: Becerra Lucano
 Nombres: Rodrigo Alexander
 Edad: 24
 Email: recterritory@gmail.com
+
+Datos Académicos
+-----------------------
+Colegio: GUE SC
+Pregrado: UNAP
+Postgrado: MAESTRÍA E INFORMÁTICA
+
