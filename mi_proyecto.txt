@@ -11,3 +11,7 @@ Colegio: GUE SC
 Pregrado: UNAP
 Postgrado: MAESTRÍA E INFORMÁTICA
 
+Datos EPG
+-----------------------
+Curso: Gerencia de Proyectos TI
+Semestre: Segundo
