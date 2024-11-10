@@ -2,10 +2,10 @@ Datos personales
 ---------------------
 Apellidos: Becerra Lucano
 Nombres: Rodrigo Alexander
-Edad: 35
+Edad: 24
 
 Datos Académicos
 -----------------------
 Colegio: GUE SC
 Pregrado: UNAP
-Postgrado: UNAP
+Postgrado: MAESTRÍA E INFORMÁTICA
